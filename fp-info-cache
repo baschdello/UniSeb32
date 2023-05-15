@@ -1,435 +1,1170 @@
-103624810226878
-Resistor_SMD
-R_0201_0603Metric
-Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
-resistor
-0
-4
-2
-Resistor_SMD
-R_0201_0603Metric_Pad0.64x0.40mm_HandSolder
-Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-4
-2
-Resistor_SMD
-R_0402_1005Metric
-Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
-Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_0603_1608Metric
-Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_0612_1632Metric
-Resistor SMD 0612 (1632 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_0612_1632Metric_Pad1.18x3.40mm_HandSolder
-Resistor SMD 0612 (1632 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_0805_2012Metric
-Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
-Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_0815_2038Metric
-Resistor SMD 0815 (2038 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.susumu.co.jp/common/pdf/n_catalog_partition07_en.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_0815_2038Metric_Pad1.20x4.05mm_HandSolder
-Resistor SMD 0815 (2038 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.susumu.co.jp/common/pdf/n_catalog_partition07_en.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_01005_0402Metric
-Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
-resistor
-0
-4
-2
-Resistor_SMD
-R_01005_0402Metric_Pad0.57x0.30mm_HandSolder
-Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-4
-2
-Resistor_SMD
-R_1020_2550Metric
-Resistor SMD 1020 (2550 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_1020_2550Metric_Pad1.33x5.20mm_HandSolder
-Resistor SMD 1020 (2550 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_1206_3216Metric
-Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
-Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_1210_3225Metric
-Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_1210_3225Metric_Pad1.30x2.65mm_HandSolder
-Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_1218_3246Metric
-Resistor SMD 1218 (3246 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20035/dcrcwe3.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_1218_3246Metric_Pad1.22x4.75mm_HandSolder
-Resistor SMD 1218 (3246 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20035/dcrcwe3.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_1812_4532Metric
-Resistor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_1812_4532Metric_Pad1.30x3.40mm_HandSolder
-Resistor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_2010_5025Metric
-Resistor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_2010_5025Metric_Pad1.40x2.65mm_HandSolder
-Resistor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_2512_6332Metric
-Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_2512_6332Metric_Pad1.40x3.35mm_HandSolder
-Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_2816_7142Metric
-Resistor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_2816_7142Metric_Pad3.20x4.45mm_HandSolder
-Resistor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_4020_10251Metric
-Resistor SMD 4020 (10251 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://datasheet.octopart.com/HVC0603T5004FET-Ohmite-datasheet-26699797.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_4020_10251Metric_Pad1.65x5.30mm_HandSolder
-Resistor SMD 4020 (10251 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://datasheet.octopart.com/HVC0603T5004FET-Ohmite-datasheet-26699797.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_Array_Concave_2x0603
-Thick Film Chip Resistor Array, Wave soldering, Vishay CRA06P (see cra06p.pdf)
-resistor array
+1680786285795
+con-wago
+con-wago-233-102
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
 0
 4
 4
-Resistor_SMD
-R_Array_Concave_4x0402
-Thick Film Chip Resistor Array, Wave soldering, Vishay CRA04P (see cra04p.pdf)
-resistor array
+con-wago
+con-wago-233-103
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+6
+6
+con-wago
+con-wago-233-104
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
 0
 8
 8
-Resistor_SMD
-R_Array_Concave_4x0603
-Thick Film Chip Resistor Array, Wave soldering, Vishay CRA06P (see cra06p.pdf)
-resistor array
-0
-8
-8
-Resistor_SMD
-R_Array_Convex_2x0402
-Chip Resistor Network, ROHM MNR02 (see mnr_g.pdf)
-resistor array
-0
-4
-4
-Resistor_SMD
-R_Array_Convex_2x0603
-Chip Resistor Network, ROHM MNR12 (see mnr_g.pdf)
-resistor array
-0
-4
-4
-Resistor_SMD
-R_Array_Convex_2x0606
-Precision Thin Film Chip Resistor Array, VISHAY (see http://www.vishay.com/docs/28770/acasat.pdf)
-resistor array
-0
-4
-4
-Resistor_SMD
-R_Array_Convex_2x1206
-Chip Resistor Network, ROHM MNR32 (see mnr_g.pdf)
-resistor array
-0
-4
-4
-Resistor_SMD
-R_Array_Convex_4x0402
-Chip Resistor Network, ROHM MNR04 (see mnr_g.pdf)
-resistor array
-0
-8
-8
-Resistor_SMD
-R_Array_Convex_4x0603
-Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)
-resistor array
-0
-8
-8
-Resistor_SMD
-R_Array_Convex_4x0612
-Precision Thin Film Chip Resistor Array, VISHAY (see http://www.vishay.com/docs/28770/acasat.pdf)
-resistor array
-0
-8
-8
-Resistor_SMD
-R_Array_Convex_4x1206
-Chip Resistor Network, ROHM MNR34 (see mnr_g.pdf)
-resistor array
-0
-8
-8
-Resistor_SMD
-R_Array_Convex_5x0603
-Chip Resistor Network, ROHM MNR15 (see mnr_g.pdf)
-resistor array
+con-wago
+con-wago-233-105
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
 0
 10
 10
-Resistor_SMD
-R_Array_Convex_5x1206
-Chip Resistor Network, ROHM MNR35 (see mnr_g.pdf)
-resistor array
+con-wago
+con-wago-233-106
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
 0
-10
-10
-Resistor_SMD
-R_Array_Convex_8x0602
-Chip Resistor Network, ROHM MNR18 (see mnr_g.pdf)
-resistor array
+12
+12
+con-wago
+con-wago-233-107
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+14
+14
+con-wago
+con-wago-233-108
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
 0
 16
 16
-Resistor_SMD
-R_Cat16-2
-SMT resistor net, Bourns CAT16 series, 2 way
-SMT resistor net Bourns CAT16 series 2 way
+con-wago
+con-wago-233-109
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+18
+18
+con-wago
+con-wago-233-110
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+20
+20
+con-wago
+con-wago-233-112
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+24
+24
+con-wago
+con-wago-233-116
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+32
+32
+con-wago
+con-wago-233-124
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+48
+48
+con-wago
+con-wago-233-136
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+72
+72
+con-wago
+con-wago-233-148
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+96
+96
+con-wago
+con-wago-233-202
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
 0
 4
 4
-Resistor_SMD
-R_Cat16-4
-SMT resistor net, Bourns CAT16 series, 4 way
-SMT resistor net Bourns CAT16 series 4 way
+con-wago
+con-wago-233-203
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+6
+6
+con-wago
+con-wago-233-204
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
 0
 8
 8
-Resistor_SMD
-R_Cat16-8
-SMT resistor net, Bourns CAT16 series, 8 way
-SMT resistor net Bourns CAT16 series 8 way
+con-wago
+con-wago-233-205
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+10
+10
+con-wago
+con-wago-233-206
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+12
+12
+con-wago
+con-wago-233-207
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+14
+14
+con-wago
+con-wago-233-208
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
 0
 16
 16
-Resistor_SMD
-R_MELF_MMB-0207
-Resistor, MELF, MMB-0207, http://www.vishay.com/docs/28713/melfprof.pdf
-MELF Resistor
+con-wago
+con-wago-233-209
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+18
+18
+con-wago
+con-wago-233-210
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+20
+20
+con-wago
+con-wago-233-212
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+24
+24
+con-wago
+con-wago-233-216
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+32
+32
+con-wago
+con-wago-233-224
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+48
+48
+con-wago
+con-wago-233-236
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+72
+72
+con-wago
+con-wago-233-248
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+96
+96
+con-wago
+con-wago-233-402
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+4
+4
+con-wago
+con-wago-233-403
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+6
+6
+con-wago
+con-wago-233-404
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+8
+8
+con-wago
+con-wago-233-405
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+10
+10
+con-wago
+con-wago-233-406
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+12
+12
+con-wago
+con-wago-233-407
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+14
+14
+con-wago
+con-wago-233-408
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+16
+16
+con-wago
+con-wago-233-409
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+18
+18
+con-wago
+con-wago-233-410
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+20
+20
+con-wago
+con-wago-233-412
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+24
+24
+con-wago
+con-wago-233-416
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+32
+32
+con-wago
+con-wago-233-424
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+48
+48
+con-wago
+con-wago-233-436
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+72
+72
+con-wago
+con-wago-233-448
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+96
+96
+con-wago
+con-wago-233-502
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+4
+4
+con-wago
+con-wago-233-503
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+6
+6
+con-wago
+con-wago-233-504
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+8
+8
+con-wago
+con-wago-233-505
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+10
+10
+con-wago
+con-wago-233-506
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+12
+12
+con-wago
+con-wago-233-507
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+14
+14
+con-wago
+con-wago-233-508
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+16
+16
+con-wago
+con-wago-233-509
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+18
+18
+con-wago
+con-wago-233-510
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+20
+20
+con-wago
+con-wago-233-512
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+24
+24
+con-wago
+con-wago-233-516
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+32
+32
+con-wago
+con-wago-233-524
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+48
+48
+con-wago
+con-wago-233-536
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+72
+72
+con-wago
+con-wago-233-548
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+96
+96
+con-wago
+con-wago-234-202
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+4
+4
+con-wago
+con-wago-234-203
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+6
+6
+con-wago
+con-wago-234-204
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+8
+8
+con-wago
+con-wago-234-205
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+10
+10
+con-wago
+con-wago-234-206
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+12
+12
+con-wago
+con-wago-234-207
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+14
+14
+con-wago
+con-wago-234-208
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+16
+16
+con-wago
+con-wago-234-209
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+18
+18
+con-wago
+con-wago-234-210
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+20
+20
+con-wago
+con-wago-234-212
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+24
+24
+con-wago
+con-wago-234-216
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+32
+32
+con-wago
+con-wago-234-224
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+48
+48
+con-wago
+con-wago-234-236
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+72
+72
+con-wago
+con-wago-234-248
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+96
+96
+con-wago
+con-wago-234-502
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+4
+4
+con-wago
+con-wago-234-503
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+6
+6
+con-wago
+con-wago-234-504
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+8
+8
+con-wago
+con-wago-234-505
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+10
+10
+con-wago
+con-wago-234-506
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+12
+12
+con-wago
+con-wago-234-507
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+14
+14
+con-wago
+con-wago-234-508
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+16
+16
+con-wago
+con-wago-234-509
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+18
+18
+con-wago
+con-wago-234-510
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+20
+20
+con-wago
+con-wago-234-512
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+24
+24
+con-wago
+con-wago-234-516
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+32
+32
+con-wago
+con-wago-234-524
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+48
+48
+con-wago
+con-wago-234-536
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+72
+72
+con-wago
+con-wago-234-548
+WAGO CAGE CLAMP
+WAGO CAGE CLAMP
+0
+96
+96
+con-wago
+con-wago-236-4XX
+ANREIHBARE EINZELKLEMME 2,5 MM² 16A RASTERMASS 5/5,08
+ANREIHBARE EINZELKLEMME 2,5 MM² 16A RASTERMASS 5/5,08
 0
 2
 2
-Resistor_SMD
-R_MicroMELF_MMU-0102
-Resistor, MicroMELF, MMU-0102, http://www.vishay.com/docs/28713/melfprof.pdf
-MicroMELF Resistor
+con-wago
+con-wago-236-5XX
+ANREIHBARE EINZELKLEMME 2,5 MM² 16A RASTERMASS 7,5/7,62
+ANREIHBARE EINZELKLEMME 2,5 MM² 16A RASTERMASS 7,5/7,62
 0
 2
 2
-Resistor_SMD
-R_MiniMELF_MMA-0204
-Resistor, MiniMELF, MMA-0204, http://www.vishay.com/docs/28713/melfprof.pdf
-MiniMELF Resistor
+con-wago
+con-wago-236-6XX
+ANREIHBARE EINZELKLEMME 2,5 MM² 16A RASTERMASS 10/10,16
+ANREIHBARE EINZELKLEMME 2,5 MM² 16A RASTERMASS 10/10,16
 0
 2
 2
-Resistor_SMD
-R_Shunt_Ohmite_LVK12
-4 contact shunt resistor
-shunt resistor 4 contacts
+con-wago
+con-wago-236-ABSCHLUSSPLATTE
+ABSCHLUSSPLATTE SERIE 236 ANRASTBAR, 1MM DICK.
+ABSCHLUSSPLATTE SERIE 236 ANRASTBAR, 1MM DICK.
 0
-4
-4
-Resistor_SMD
-R_Shunt_Ohmite_LVK20
-4 contacts shunt resistor, https://www.ohmite.com/assets/docs/res_lvk.pdf
-4 contacts resistor smd
 0
-4
-4
-Resistor_SMD
-R_Shunt_Ohmite_LVK24
-4 contacts shunt resistor,https://www.ohmite.com/assets/docs/res_lvk.pdf
-4 contacts resistor smd
 0
-4
-4
-Resistor_SMD
-R_Shunt_Ohmite_LVK25
-4 contacts shunt resistor,https://www.ohmite.com/assets/docs/res_lvk.pdf
-4 contacts resistor smd
+con-wago
+con-wago-254-200
+ABSCHLUSSPLATTE 1 MM DICK ANRASTBAR
+ABSCHLUSSPLATTE 1 MM DICK ANRASTBAR
 0
-4
-4
-Resistor_SMD
-R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm
-Shunt Resistor SMD 2512 (6332 Metric), 2.6mm thick, Vishay WKS2512, Terminal length (T) 1.19mm, 5 to 200 milli Ohm (http://http://www.vishay.com/docs/30108/wsk.pdf)
-resistor shunt WSK2512
 0
-4
-4
-Resistor_SMD
-R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm
-Shunt Resistor SMD 2512 (6332 Metric), 2.6mm thick, Vishay WKS2512, Terminal length (T) 2.21mm, 1 to 4.9 milli Ohm (http://http://www.vishay.com/docs/30108/wsk.pdf)
-resistor shunt WSK2512
 0
-4
-4
-Resistor_SMD
-R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm
-Shunt Resistor SMD 2512 (6332 Metric), 2.6mm thick, Vishay WKS2512, Terminal length (T) 2.66mm, 0.5 to 0.99 milli Ohm (http://http://www.vishay.com/docs/30108/wsk.pdf)
-resistor shunt WSK2512
-0
-4
-4
-Resistor_SMD
-R_Shunt_Vishay_WSKW0612
-https://www.vishay.com/docs/30332/wskw0612.pdf
-4-Terminal SMD Shunt
-0
-4
-4
-Resistor_SMD
-R_Shunt_Vishay_WSR2_WSR3
-Power Metal Strip Resistors 0.005 to 0.2, https://www.vishay.com/docs/30101/wsr.pdf
-SMD Shunt Resistor
+con-wago
+con-wago-254-842
+1-LEITER-EINZELKLEMME FÜR LEITERPLATTEN 2 LÖTSTIFTE/POL 1-POLIG RASTERMASS 5/5,08 MM / 0.2 IN
+1-LEITER-EINZELKLEMME FÜR LEITERPLATTEN 2 LÖTSTIFTE/POL 1-POLIG RASTERMASS 5/5,08 MM / 0.2 IN
 0
 2
 2
-Resistor_SMD
-R_Shunt_Vishay_WSR2_WSR3_KelvinConnection
-Power Metal Strip Resistors 0.005 to 0.2, https://www.vishay.com/docs/30101/wsr.pdf
-SMD Shunt Resistor
+con-wago
+con-wago-255-401-5
+WAGO CAGE CLAMP GRID 5.0 MM
+WAGO CAGE CLAMP GRID 5.0 MM
+0
+2
+2
+con-wago
+con-wago-255-402-5
+CAGE CLAMP, GRID 5.0 MM
+CAGE CLAMP, GRID 5.0 MM
 0
 4
-2
+4
+con-wago
+con-wago-255-402-508
+CAGE CLAMP, GRID 5.08 MM
+CAGE CLAMP, GRID 5.08 MM
+0
+4
+4
+con-wago
+con-wago-255-402-750
+CAGE CLAMP, GRID 7.50 MM
+CAGE CLAMP, GRID 7.50 MM
+0
+4
+4
+con-wago
+con-wago-255-402-762
+CAGE CLAMP, GRID 7.62 MM
+CAGE CLAMP, GRID 7.62 MM
+0
+4
+4
+con-wago
+con-wago-255-402-1000
+CAGE CLAMP, GRID 10.0 MM
+CAGE CLAMP, GRID 10.0 MM
+0
+4
+4
+con-wago
+con-wago-255-402-1016
+CAGE CLAMP, GRID 10.16 MM
+CAGE CLAMP, GRID 10.16 MM
+0
+4
+4
+con-wago
+con-wago-255-403-5
+CAGE CLAMP, GRID 5.0 MM
+CAGE CLAMP, GRID 5.0 MM
+0
+6
+6
+con-wago
+con-wago-255-403-508
+CAGE CLAMP, GRID 5.08 MM
+CAGE CLAMP, GRID 5.08 MM
+0
+6
+6
+con-wago
+con-wago-255-403-750
+CAGE CLAMP, GRID 7.50 MM
+CAGE CLAMP, GRID 7.50 MM
+0
+6
+6
+con-wago
+con-wago-255-403-762
+CAGE CLAMP, GRID 7.62 MM
+CAGE CLAMP, GRID 7.62 MM
+0
+6
+6
+con-wago
+con-wago-255-403-1000
+CAGE CLAMP, GRID 10.0 MM
+CAGE CLAMP, GRID 10.0 MM
+0
+6
+6
+con-wago
+con-wago-255-403-1016
+CAGE CLAMP, GRID 10.16 MM
+CAGE CLAMP, GRID 10.16 MM
+0
+6
+6
+con-wago
+con-wago-255-404-5
+CAGE CLAMP, GRID 5.0 MM
+CAGE CLAMP, GRID 5.0 MM
+0
+8
+8
+con-wago
+con-wago-255-404-508
+CAGE CLAMP, GRID 5.08 MM
+CAGE CLAMP, GRID 5.08 MM
+0
+8
+8
+con-wago
+con-wago-255-404-750
+CAGE CLAMP, GRID 7.50 MM
+CAGE CLAMP, GRID 7.50 MM
+0
+8
+8
+con-wago
+con-wago-255-404-762
+CAGE CLAMP, GRID 7.62 MM
+CAGE CLAMP, GRID 7.62 MM
+0
+8
+8
+con-wago
+con-wago-255-404-1000
+CAGE CLAMP, GRID 10.0 MM
+CAGE CLAMP, GRID 10.0 MM
+0
+8
+8
+con-wago
+con-wago-255-404-1016
+CAGE CLAMP, GRID 10.16 MM
+CAGE CLAMP, GRID 10.16 MM
+0
+8
+8
+con-wago
+con-wago-255-405-5
+CAGE CLAMP, GRID 5.0 MM
+CAGE CLAMP, GRID 5.0 MM
+0
+10
+10
+con-wago
+con-wago-255-405-508
+CAGE CLAMP, GRID 5.08 MM
+CAGE CLAMP, GRID 5.08 MM
+0
+10
+10
+con-wago
+con-wago-255-405-750
+CAGE CLAMP, GRID 7.50 MM
+CAGE CLAMP, GRID 7.50 MM
+0
+10
+10
+con-wago
+con-wago-255-405-762
+CAGE CLAMP, GRID 7.62 MM
+CAGE CLAMP, GRID 7.62 MM
+0
+10
+10
+con-wago
+con-wago-255-405-1000
+CAGE CLAMP, GRID 10.0 MM
+CAGE CLAMP, GRID 10.0 MM
+0
+10
+10
+con-wago
+con-wago-255-405-1016
+CAGE CLAMP, GRID 10.16 MM
+CAGE CLAMP, GRID 10.16 MM
+0
+10
+10
+con-wago
+con-wago-255-406-5
+CAGE CLAMP, GRID 5.0 MM
+CAGE CLAMP, GRID 5.0 MM
+0
+12
+12
+con-wago
+con-wago-255-406-508
+CAGE CLAMP, GRID 5.08 MM
+CAGE CLAMP, GRID 5.08 MM
+0
+12
+12
+con-wago
+con-wago-255-406-750
+CAGE CLAMP, GRID 7.50 MM
+CAGE CLAMP, GRID 7.50 MM
+0
+12
+12
+con-wago
+con-wago-255-406-762
+CAGE CLAMP, GRID 7.62 MM
+CAGE CLAMP, GRID 7.62 MM
+0
+12
+12
+con-wago
+con-wago-255-406-1000
+CAGE CLAMP, GRID 10.0 MM
+CAGE CLAMP, GRID 10.0 MM
+0
+12
+12
+con-wago
+con-wago-255-406-1016
+CAGE CLAMP, GRID 10.16 MM
+CAGE CLAMP, GRID 10.16 MM
+0
+12
+12
+con-wago
+con-wago-255-407-5
+CAGE CLAMP, GRID 5.0 MM
+CAGE CLAMP, GRID 5.0 MM
+0
+14
+14
+con-wago
+con-wago-255-407-508
+CAGE CLAMP, GRID 5.08 MM
+CAGE CLAMP, GRID 5.08 MM
+0
+14
+14
+con-wago
+con-wago-255-407-750
+CAGE CLAMP, GRID 7.50 MM
+CAGE CLAMP, GRID 7.50 MM
+0
+14
+14
+con-wago
+con-wago-255-407-762
+CAGE CLAMP, GRID 7.62 MM
+CAGE CLAMP, GRID 7.62 MM
+0
+14
+14
+con-wago
+con-wago-255-407-1000
+CAGE CLAMP, GRID 10.0 MM
+CAGE CLAMP, GRID 10.0 MM
+0
+14
+14
+con-wago
+con-wago-255-407-1016
+CAGE CLAMP, GRID 10.16 MM
+CAGE CLAMP, GRID 10.16 MM
+0
+14
+14
+con-wago
+con-wago-255-408-5
+CAGE CLAMP, GRID 5.0 MM
+CAGE CLAMP, GRID 5.0 MM
+0
+16
+16
+con-wago
+con-wago-255-408-508
+CAGE CLAMP, GRID 5.08 MM
+CAGE CLAMP, GRID 5.08 MM
+0
+16
+16
+con-wago
+con-wago-255-408-750
+CAGE CLAMP, GRID 7.50 MM
+CAGE CLAMP, GRID 7.50 MM
+0
+16
+16
+con-wago
+con-wago-255-408-762
+CAGE CLAMP, GRID 7.62 MM
+CAGE CLAMP, GRID 7.62 MM
+0
+16
+16
+con-wago
+con-wago-255-408-1000
+CAGE CLAMP, GRID 10.0 MM
+CAGE CLAMP, GRID 10.0 MM
+0
+16
+16
+con-wago
+con-wago-255-408-1016
+CAGE CLAMP, GRID 10.16 MM
+CAGE CLAMP, GRID 10.16 MM
+0
+16
+16
+con-wago
+con-wago-255-409-5
+CAGE CLAMP, GRID 5.0 MM
+CAGE CLAMP, GRID 5.0 MM
+0
+18
+18
+con-wago
+con-wago-255-409-508
+CAGE CLAMP, GRID 5.08 MM
+CAGE CLAMP, GRID 5.08 MM
+0
+18
+18
+con-wago
+con-wago-255-409-750
+CAGE CLAMP, GRID 7.50 MM
+CAGE CLAMP, GRID 7.50 MM
+0
+18
+18
+con-wago
+con-wago-255-409-762
+CAGE CLAMP, GRID 7.62 MM
+CAGE CLAMP, GRID 7.62 MM
+0
+18
+18
+con-wago
+con-wago-255-409-1000
+CAGE CLAMP, GRID 10.0 MM
+CAGE CLAMP, GRID 10.0 MM
+0
+18
+18
+con-wago
+con-wago-255-409-1016
+CAGE CLAMP, GRID 10.16 MM
+CAGE CLAMP, GRID 10.16 MM
+0
+18
+18
+con-wago
+con-wago-255-410-5
+CAGE CLAMP, GRID 5.0 MM
+CAGE CLAMP, GRID 5.0 MM
+0
+20
+20
+con-wago
+con-wago-255-410-508
+CAGE CLAMP, GRID 5.08 MM
+CAGE CLAMP, GRID 5.08 MM
+0
+20
+20
+con-wago
+con-wago-255-410-750
+CAGE CLAMP, GRID 7.50 MM
+CAGE CLAMP, GRID 7.50 MM
+0
+20
+20
+con-wago
+con-wago-255-410-762
+CAGE CLAMP, GRID 7.62 MM
+CAGE CLAMP, GRID 7.62 MM
+0
+20
+20
+con-wago
+con-wago-255-410-1000
+CAGE CLAMP, GRID 10.0 MM
+CAGE CLAMP, GRID 10.0 MM
+0
+20
+20
+con-wago
+con-wago-255-410-1016
+CAGE CLAMP, GRID 10.16 MM
+CAGE CLAMP, GRID 10.16 MM
+0
+20
+20
+con-wago
+con-wago-255-412-5
+CAGE CLAMP, GRID 5.0 MM
+CAGE CLAMP, GRID 5.0 MM
+0
+24
+24
+con-wago
+con-wago-255-412-508
+CAGE CLAMP, GRID 5.08 MM
+CAGE CLAMP, GRID 5.08 MM
+0
+24
+24
+con-wago
+con-wago-255-412-750
+CAGE CLAMP, GRID 7.50 MM
+CAGE CLAMP, GRID 7.50 MM
+0
+24
+24
+con-wago
+con-wago-255-412-762
+CAGE CLAMP, GRID 7.62 MM
+CAGE CLAMP, GRID 7.62 MM
+0
+24
+24
+con-wago
+con-wago-255-412-1000
+CAGE CLAMP, GRID 10.0 MM
+CAGE CLAMP, GRID 10.0 MM
+0
+24
+24
+con-wago
+con-wago-255-412-1016
+CAGE CLAMP, GRID 10.16 MM
+CAGE CLAMP, GRID 10.16 MM
+0
+24
+24
+con-wago
+con-wago-255-416-5
+CAGE CLAMP, GRID 5.0 MM
+CAGE CLAMP, GRID 5.0 MM
+0
+32
+32
+con-wago
+con-wago-255-416-508
+CAGE CLAMP, GRID 5.08 MM
+CAGE CLAMP, GRID 5.08 MM
+0
+32
+32
+con-wago
+con-wago-255-416-750
+CAGE CLAMP, GRID 7.50 MM
+CAGE CLAMP, GRID 7.50 MM
+0
+32
+32
+con-wago
+con-wago-255-416-762
+CAGE CLAMP, GRID 7.62 MM
+CAGE CLAMP, GRID 7.62 MM
+0
+32
+32
+con-wago
+con-wago-255-416-1000
+CAGE CLAMP, GRID 10.0 MM
+CAGE CLAMP, GRID 10.0 MM
+0
+32
+32
+con-wago
+con-wago-255-416-1016
+CAGE CLAMP, GRID 10.16 MM
+CAGE CLAMP, GRID 10.16 MM
+0
+32
+32
+con-wago
+con-wago-255-424-5
+CAGE CLAMP, GRID 5.0 MM
+CAGE CLAMP, GRID 5.0 MM
+0
+48
+48
+con-wago
+con-wago-255-424-508
+CAGE CLAMP, GRID 5.08 MM
+CAGE CLAMP, GRID 5.08 MM
+0
+48
+48
+con-wago
+con-wago-255-424-750
+CAGE CLAMP, GRID 7.50 MM
+CAGE CLAMP, GRID 7.50 MM
+0
+48
+48
+con-wago
+con-wago-255-424-762
+CAGE CLAMP, GRID 7.62 MM
+CAGE CLAMP, GRID 7.62 MM
+0
+48
+48
+con-wago
+con-wago-255-424-1000
+CAGE CLAMP, GRID 10.0 MM
+CAGE CLAMP, GRID 10.0 MM
+0
+48
+48
+con-wago
+con-wago-255-424-1016
+CAGE CLAMP, GRID 10.16 MM
+CAGE CLAMP, GRID 10.16 MM
+0
+48
+48
+con-wago
+con-wago-255-436-5
+CAGE CLAMP, GRID 5.0 MM
+CAGE CLAMP, GRID 5.0 MM
+0
+72
+72
+con-wago
+con-wago-255-436-508
+CAGE CLAMP, GRID 5.08 MM
+CAGE CLAMP, GRID 5.08 MM
+0
+72
+72
+con-wago
+con-wago-255-448-5
+CAGE CLAMP, GRID 5.0 MM
+CAGE CLAMP, GRID 5.0 MM
+0
+96
+96
+con-wago
+con-wago-255-448-508
+CAGE CLAMP, GRID 5.08 MM
+CAGE CLAMP, GRID 5.08 MM
+0
+96
+96
