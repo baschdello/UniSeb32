@@ -1,3 +1,5 @@
 (sym_lib_table
+  (version 7)
   (lib (name "UniSeb8266-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/UniSeb8266-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "RTL8201F")(type "KiCad")(uri "${KIPRJMOD}/sym/RTL8201F.kicad_sym")(options "")(descr ""))
 )
